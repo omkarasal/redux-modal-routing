@@ -1,5 +1,5 @@
-## React-Bootstrap Modal using Redux
-## Shows different alert messages on routing
+## React-Bootstrap Modal using Redux and React Routing
+Shows different alert messages on routing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
