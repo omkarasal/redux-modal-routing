@@ -10,7 +10,7 @@ function toggleModal(state = initialState, action) {
         case actionTypes.SHOW_MODAL:
             return Object.assign({}, state, {
                 isShowing: true,
-                message: 'Modal showing successfully'
+                message: action.message
             })
         case actionTypes.HIDE_MODAL:
             return Object.assign({}, state, {
